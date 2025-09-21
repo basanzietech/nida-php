@@ -6,8 +6,10 @@ PHP library to fetch user information from Tanzania NIDA database.
 
 ```bash
 composer require benja/nida-php
-
-## Testing
-
+```
+## Copy and Testing
+```bash
+cp -r ../nida-php/examples ./examples
+```
 ```bash
 php examples/test.php
