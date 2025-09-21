@@ -5,7 +5,7 @@ PHP library to fetch user information from Tanzania NIDA database.
 ## Installation
 
 ```bash
-composer require kalebu/nida-php
+composer require benja/nida-php
 
 ## Testing
 

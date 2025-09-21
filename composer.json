@@ -1,12 +1,12 @@
 {
-  "name": "kalebu/nida-php",
+  "name": "benja/nida-php",
   "description": "PHP library to fetch user information from NIDA Tanzania",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jordan Kalebu",
-      "email": "isaackeinstein@gmail.com"
+      "name": "Benjamini Omary",
+      "email": "benjaminkiseka80@gmail.com"
     }
   ],
   "require": {
